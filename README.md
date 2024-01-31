@@ -10,3 +10,5 @@ No seu próximo módulo tem serviços de conversão de fala em texto, com divers
 A conversão de texto em fala com serviços de criação de conteúdo em áudio, bem útil para muitas aplicações, a voz personalizada que permite você fugir daquela voz padrão adicionando mais personalidade a sua aplicação.
 
 Por fim, o assistente de voz permite o desenvolvimento de muitas aplicações personalizadas e criativas.
+
+Deixei um exemplo na pasta 'inputs' com o documento de texto e um vídeo gerado através da ferramenta de avatar.
